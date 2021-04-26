@@ -1,1 +1,2 @@
-# https://github.com/Lourencobrah/TecBlog
+# 1° Projeto de Desenvolvimento Web:
+# https://lourencobrah.github.io/TecBlog/
