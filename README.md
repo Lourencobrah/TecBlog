@@ -1,2 +1,1 @@
-# TecBlog
-Projeto TecBlog
+# https://github.com/Lourencobrah/TecBlog
